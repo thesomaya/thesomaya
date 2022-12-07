@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thesomaya/thesomaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Somaia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somaiashaaban/)
+
 -->
 
 # Hello there 👋, I'm Somaia
@@ -29,6 +30,7 @@ I am a software engineering student - junior year.
   </a>
 </div>
 
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -40,8 +42,6 @@ I am a software engineering student - junior year.
 - 🌱 I’m currently focusing on data structures and algorithms.
 - 🤔 In my free time, I solve problems on LeetCode.
 - 📫 How to reach me: somaia.h.shaaban@gmail.com
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Somaia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somaiashaaban/)
 
 ---
 
