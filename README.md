@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello there 👋, I'm Somaia
 
-I am a software engineering student - junior year.
+I am a software engineering.
 
 
 <div id="badges">
